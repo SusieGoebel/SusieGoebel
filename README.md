@@ -1,4 +1,4 @@
-# Hi, I'm Susie Göbel
+# Hi, I'm Susanne Göbel
 
 I'm a computer scientist, researcher and lecturer at the **University of Koblenz**, Germany, currently working towards my PhD.
 
@@ -6,9 +6,9 @@ My interests lie at the intersection of software engineering, model-driven engin
 
 ## 🪷 A Little About Me
 
-My path into computer science and academia has never been particularly linear – and I'm quite happy about that.
+My professional path has never been particularly linear – and I'm quite happy about that.
 
-I graduated from the University of Kaiserslautern in 2014, shortly after becoming a mother. Since then, I've worn quite a few different hats: researcher, school teacher, software engineer and, eventually, CTO of a Swiss software company. I spent several years in industry, working part-time while taking on the challenges and responsibilities of a leadership role.
+I graduated from the University of Kaiserslautern in 2014 at the age of 24, shortly after becoming a mother. Since then, I've worn quite a few different hats: researcher, school teacher, software engineer and, eventually, CTO of a Swiss software company. I spent several years in industry, working part-time while taking on the challenges and responsibilities of a leadership role.
 
 After years of balancing professional responsibilities and family life, I eventually decided to take a step back, rethink my priorities and return to academia – to pursue the research and teaching that I have always loved.
 
